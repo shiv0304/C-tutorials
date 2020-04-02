@@ -1,2 +1,2 @@
-# C-tutorials
+# C++ tutorials
 To help people to learn c++
